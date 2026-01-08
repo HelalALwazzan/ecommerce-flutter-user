@@ -1,16 +1,26 @@
-# ecommerce
+# ecommerce-flutter-user
 
-Ecommerce App
+Flutter mobile application for the **User module** of an e-commerce platform. The app interacts with a backend RESTful API (`ecommerce-PHP`) to provide core functionalities for end-users.
 
-## Getting Started
+## 🚀 Features
+- Browse products and categories
+- Add, remove, and manage cart items
+- Place and track orders
+- User authentication and profile management
+- Responsive UI for mobile devices
 
-This project is a starting point for a Flutter application.
+## 🛠 Tech Stack
+- Flutter (Dart)
+- RESTful API integration
+- State management (Provider / Bloc / GetX)
+- JSON-based communication with backend
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 Backend Integration
+- Works with `ecommerce-PHP` backend API for authentication, product management, and order processing
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## ⚠️ Notes
+- API keys and sensitive data are excluded
+- Intended for portfolio and demonstration purposes
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📄 License
+Educational and portfolio use only
